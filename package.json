@@ -1,0 +1,26 @@
+{
+  "name": "component-library-template",
+  "version": "0.0.0",
+  "description": "This is a repo where we will configure and create a toolchain for building and bundling a component library.",
+  "keywords": [
+    "[\"react\"",
+    "\"ui\"",
+    "\"component-library\"",
+    "\"template\"]"
+  ],
+  "homepage": "https://github.com/ShreyDhyani/component-library-template#readme",
+  "bugs": {
+    "url": "https://github.com/ShreyDhyani/component-library-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyDhyani/component-library-template.git"
+  },
+  "license": "MIT",
+  "author": "Shrey Dhyani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
